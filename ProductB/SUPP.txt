@@ -1,1 +1,2 @@
 ProductB runs on Windows 7.
+Latest security updates have been applied as of 14 Feb 2023.
